@@ -13,7 +13,7 @@
   "dependencies": {
     "art-template": "^4.13.2",
     "art-template-loader": "^1.4.3",
-    "bcrypt": "^3.0.7",
+    "bcrypt": "^5.0.0",
     "bcryptjs": "^2.4.3",
     "config": "^3.2.4",
     "css-loader": "^3.4.2",
